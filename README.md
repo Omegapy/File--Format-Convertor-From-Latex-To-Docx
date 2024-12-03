@@ -7,7 +7,8 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 Requirements:
-Windows OS
+- Windows OS
+- pandoc
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -25,7 +26,7 @@ The program is part of 2 two-step processes to convert ChatGPT markdown outputs 
 
 - The first step is to convert ChatGPT markdown outputs into Latex format using the following GPT ChatGPT format to latex:  
 https://chatgpt.com/g/g-6733d85192508190a1a032cf3bda0224-chatgpt-format-to-latex
-- The second step is to use File Format Convertor to docx.bat
+- The second step is to use File Format Convertor to docx.bat  
 See this video for more information:
 
 
