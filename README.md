@@ -1,5 +1,5 @@
 ﻿-----------------------------------------------------------------------------------------------------------------------------
-# ChatGPT Mark Downs to MS Word docx 
+# ChatGPT markdown text outputs to MS Word docx files
 -----------------------------------------------------------------------------------------------------------------------------
 
 <img width="30" height="30" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"> Alexander Ricciardi (Omegapy) 
@@ -15,19 +15,20 @@ Requirements:
 
 Projects Description: 
  
-This small bat file converts Latex files to MS Word docx file  
+This small bat file converts Latex files to MS Word docx files  
 - File Format Convertor to docx.bat
 
 This program uses pandoc to covert Latex files to MS Word docx files.
-To install pandoc follow this link: https://pandoc.org/installing.html
+To install pandoc follow this link: [pandoc](https://pandoc.org/installing.html)
 
 
 The program is part of 2 two-step processes to convert ChatGPT markdown outputs to Word docx files. This process is particularly useful if ChatGPT outputs consist of mathematical equations.
 
-- The first step is to convert ChatGPT markdown outputs into Latex format using the following GPT ChatGPT format to latex:  
-https://chatgpt.com/g/g-6733d85192508190a1a032cf3bda0224-chatgpt-format-to-latex
+- The first step is to convert ChatGPT markdown text outputs into Latex format using the following GPT [ChatGPT format to latex](https://chatgpt.com/g/g-6733d85192508190a1a032cf3bda0224-chatgpt-format-to-latex)
 - The second step is to use File Format Convertor to docx.bat  
-See this video for more information:
+See the Youtube video for more information:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pVK00Dmx3Rg/0.jpg)](https://www.youtube.com/watch?v=pVK00Dmx3Rg)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
